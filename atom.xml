@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>/home/mindflux</title>
+    <description>Mindflux.tech</description>
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <author>
+      <name>mindflux</name>
+      <email>me@mindflux.tech</email>
+      <uri>https://mindflux.tech</uri>
+    </author>
+    
+      <item>
+        <title>Hello World</title>
+        <description>&lt;p&gt;Hello World :-)&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Jan 1970 00:00:00 -0500</pubDate>
+        <link>//Hello-World</link>
+        <link href="/Hello-World"/>
+        <guid isPermaLink="true">/Hello-World</guid>
+      </item>
+    
+  </channel>
+</rss>
